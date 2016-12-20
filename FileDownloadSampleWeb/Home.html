@@ -1,0 +1,62 @@
+﻿<!-- Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license. -->
+<!-- See LICENSE in the project root for license information -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title>File download (code sample)</title>
+
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.1.min.js"></script>
+    <script src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js" type="text/javascript"></script>   
+
+    <!-- For the Office UI Fabric, go to http://aka.ms/office-ui-fabric to learn more. -->
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/2.1.0/fabric.min.css">
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/2.1.0/fabric.components.min.css">
+    <link href="Home.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body class="ms-font-l ms-landing-page">
+    <main class="ms-landing-page__main">
+        <section class="ms-landing-page__content ms-font-m ms-fontColor-neutralPrimary">
+            <article class="demo-placeholder">
+                    <br />
+                    <p class="ms-font-xxl ms-fontColor-neutralSecondary ms-fontWeight-semilight">File download code sample</p>
+                    <br /><br />
+                    <div class="ms-font-xl ms-fontColor-neutralTertiary">Click a button to get started downloading a file.</div>
+                    <p class="ms-font-m-plus ms-fontColor-neutralTertiary" id="template-description"></p>
+                    <div class="ms-font-m"></div>
+                    <br /><br />
+                   
+                    <button class="ms-Button ms-Button--primary" id="btnDownload1">
+                        <span class="ms-Button-icon"><i class="ms-Icon ms-Icon--plus"></i></span>
+                        <span class="ms-Button-label" id="button-text1"></span>
+                        <span class="ms-Button-description" id="button-desc1"></span>
+                    </button>
+                    <button class="ms-Button ms-Button--primary" id="btnDownload2">
+                        <span class="ms-Button-icon"><i class="ms-Icon ms-Icon--plus"></i></span>
+                        <span class="ms-Button-label" id="button-text2"></span>
+                        <span class="ms-Button-description" id="button-desc2"></span>
+                    </button>
+                    <br />
+                    <div id="InsertURL"></div>
+            </article>
+        </section>
+    </main>
+
+    <footer class="ms-landing-page__footer  ms-bgColor-themePrimary">
+        <div class="ms-landing-page__footer--left">
+            <img src="/images/logo-filled.png" />
+            <h1 class="ms-font-xl ms-fontWeight-semilight ms-fontColor-white">My Add-in Name</h1>
+        </div>
+        <div class="ms-landing-page__footer--right">
+            <i class="ms-Icon enlarge ms-Icon--gear ms-fontColor-white"></i>
+        </div>
+    </footer>
+     
+    <script src="Home.js" type="text/javascript"></script>
+
+</body>
+</html>
