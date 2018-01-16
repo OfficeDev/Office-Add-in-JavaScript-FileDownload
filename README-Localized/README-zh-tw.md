@@ -46,7 +46,7 @@
 
 ## <a name="questions-and-comments"></a>問題和建議
 
-我們很樂於收到您對於此範例的意見反應。您可以在此儲存機制的 *[問題]* 區段中，將您的意見反應傳送給我們。
+我們很樂於收到您對於此範例的意見反應。您可以在此存放庫的 [問題]** 區段中，將您的意見反應傳送給我們。
 
 請在 [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API) 提出有關 Microsoft Office 365 開發的一般問題。如果您的問題是關於 Office JavaScript API，請確定您的問題標記有 [office js] 與 [API]。
 
@@ -57,5 +57,8 @@
 * 在 [Github 上的 OfficeDev](https://github.com/officedev) 中有更多 Office 增益集範例
 
 ## <a name="copyright"></a>著作權
-Copyright (c) 2016 Microsoft Corporation 著作權所有，並保留一切權利。
+Copyright (c) 2016 Microsoft Corporation.著作權所有，並保留一切權利。
 
+
+
+此專案已採用 [Microsoft 開放原始碼管理辦法](https://opensource.microsoft.com/codeofconduct/)。如需詳細資訊，請參閱[管理辦法常見問題集](https://opensource.microsoft.com/codeofconduct/faq/)，如果有其他問題或意見，請連絡 [opencode@microsoft.com](mailto:opencode@microsoft.com)。

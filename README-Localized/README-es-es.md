@@ -52,10 +52,14 @@ Las preguntas generales sobre el desarrollo de Microsoft Office 365 deben public
 
 ## <a name="additional-resources"></a>Recursos adicionales
 
-* [Documentación de complementos de Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* 
+  [Documentación de complementos de Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Centro de desarrollo de Office](http://dev.office.com/)
 * Más ejemplos de complementos de Office en [OfficeDev en GitHub](https://github.com/officedev)
 
 ## <a name="copyright"></a>Copyright
 Copyright (c) 2016 Microsoft Corporation. Todos los derechos reservados.
 
+
+
+Este proyecto ha adoptado el [Código de conducta de código abierto de Microsoft](https://opensource.microsoft.com/codeofconduct/). Para obtener más información, consulte las [preguntas más frecuentes sobre el Código de conducta](https://opensource.microsoft.com/codeofconduct/faq/) o póngase en contacto con [opencode@microsoft.com](mailto:opencode@microsoft.com) si tiene otras preguntas o comentarios.

@@ -57,5 +57,8 @@ Microsoft Office 365 開発全般の質問につきましては、「[スタッ�
 * [Github の OfficeDev](https://github.com/officedev) にあるその他の Office アドイン サンプル
 
 ## <a name="copyright"></a>著作権
-Copyright (c) 2016 Microsoft Corporation. All rights reserved.
+Copyright (c) 2016 Microsoft Corporation.All rights reserved.
 
+
+
+このプロジェクトでは、[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) が採用されています。詳細については、「[Code of Conduct の FAQ](https://opensource.microsoft.com/codeofconduct/faq/)」を参照してください。また、その他の質問やコメントがあれば、[opencode@microsoft.com](mailto:opencode@microsoft.com) までお問い合わせください。

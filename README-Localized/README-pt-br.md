@@ -46,16 +46,20 @@ Este exemplo de código usa a biblioteca FileSaver.js. Após clonar este reposit
 
 ## <a name="questions-and-comments"></a>Perguntas e comentários
 
-Gostaríamos de saber sua opinião sobre este exemplo. Você pode nos enviar comentários na seção *Problemas* deste repositório.
+Gostaríamos de saber sua opinião sobre este exemplo. Você pode nos enviar comentários na seção *Issues* deste repositório.
 
 As perguntas sobre o desenvolvimento do Microsoft Office 365 em geral devem ser postadas no [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API). Se sua pergunta estiver relacionada às APIs JavaScript para Office, não deixe de marcá-la com as tags [office-js] e [API].
 
 ## <a name="additional-resources"></a>Recursos adicionais
 
-* [Documentação dos suplementos do Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* 
+  [Documentação dos suplementos do Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Centro de Desenvolvimento do Office](http://dev.office.com/)
 * Confira outros exemplos de Suplemento do Office em [OfficeDev no Github](https://github.com/officedev)
 
-## <a name="copyright"></a>Direitos autorais
-Copyright (C) 2016 Microsoft Corporation. Todos os direitos reservados.
+## <a name="copyright"></a>Copyright
+Copyright (c) 2016 Microsoft Corporation. Todos os direitos reservados.
 
+
+
+Este projeto adotou o [Código de Conduta de Software Livre da Microsoft](https://opensource.microsoft.com/codeofconduct/). Para saber mais, confira as [Perguntas frequentes sobre o Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou contate [opencode@microsoft.com](mailto:opencode@microsoft.com) se tiver outras dúvidas ou comentários.
