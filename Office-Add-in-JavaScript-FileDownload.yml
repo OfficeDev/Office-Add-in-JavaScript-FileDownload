@@ -1,0 +1,20 @@
+### YamlMime:Sample
+sample:
+- name: Download files in a Word Web Add-in
+  path: ''
+  description: This code sample teaches you the different techniques for downloading files programmatically in an Office Add-in.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: rick-kirkham
+  platforms: []
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Word
+    - Word for Mac
+    scenarios: []
