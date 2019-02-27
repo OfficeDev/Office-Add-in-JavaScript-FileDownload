@@ -1,3 +1,19 @@
+---
+topic: sample
+products:
+- Word
+- Office 365
+languages:
+- CSS
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # Download files in a Word Web Add-in
 
 This code sample teaches you the different techniques for downloading files programmatically in an Office Add-in. Different Office hosts and browsers (when using Office Online) may handle files differently. If you'd like to provide a uniform file download experience, use the techniques demonstrated in this code sample. This code sample also shows you how you can provide a fallback mechanism if the Office host or browser does not support one of the other methods. 
