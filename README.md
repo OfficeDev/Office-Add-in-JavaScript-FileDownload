@@ -1,16 +1,16 @@
 ---
 topic: sample
 products:
-- Word
-- Office 365
+- office-word
+- office-365
 languages:
-- CSS
-- JavaScript
+- javascript
 extensions:
   contentType: samples
   technologies:
   - Add-ins
   platforms:
+  - CSS
   - iOS
   createdDate: 11/4/2016 11:31:59 AM
 ---
