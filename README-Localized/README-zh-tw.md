@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>在 Word Web 增益集下載檔案
 
 此程式碼範例會教您在 Office 增益集中以程式控制方式下載檔案的不同技術。不同的 Office 主機和瀏覽器 (使用 Office Online 時) 可能以不同的方式處理檔案。如果您想要提供制式的檔案下載經驗，請使用此程式碼範例中示範的技巧。此程式碼範例也向您展示，如何在 Office 主機或瀏覽器不支援其他方法之一時提供遞補機制。 

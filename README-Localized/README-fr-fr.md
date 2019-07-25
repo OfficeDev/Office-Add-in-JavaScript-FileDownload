@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>Télécharger des fichiers dans un complément web Word
 
 Cet exemple de code montre les différentes techniques pour télécharger des fichiers par programme dans un complément Office. Les différents navigateurs et hôtes Office (lorsque vous utilisez Office Online) peuvent gérer les fichiers différemment. Si vous souhaitez offrir une expérience uniforme pour le téléchargement de fichiers, utilisez les techniques décrites dans cet exemple de code. Cet exemple vous montre également comment fournir un mécanisme de secours si l’hôte ou le navigateur Office ne prend en charge une des autres méthodes. 
@@ -52,8 +68,7 @@ Les questions générales sur le développement de Microsoft Office 365 doivent
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
-* 
-  [Documentation de complément Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* [Documentation de complément Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Centre de développement Office](http://dev.office.com/)
 * Plus d’exemples de complément Office sur [OfficeDev sur Github](https://github.com/officedev)
 

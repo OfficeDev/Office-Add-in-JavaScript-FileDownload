@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>Herunterladen von Dateien in ein Word-Web-Add-In
 
 In diesem Codebeispiel erlernen Sie die verschiedenen Techniken zum programmgesteuerten Herunterladen von Dateien in ein Office-Add-In. In anderen Office-Hosts und -Browsern (bei Verwendung von Office Online) werden Dateien unterschiedlich behandelt. Wenn Sie eine einheitliche Umgebung zum Herunterladen von Dateien bereitstellen möchten, verwenden Sie die in diesem Codebeispiel erläuterten Techniken. In diesem Codebeispiel wird außerdem gezeigt, wie Sie eine alternative Methode bereitstellen können, wenn der Office-Host oder -Browser eine der anderen Methoden nicht unterstützt. 
@@ -52,8 +68,7 @@ Fragen zur Microsoft Office 365-Entwicklung sollten in [Stack Overflow](http://s
 
 ## <a name="additional-resources"></a>Zusätzliche Ressourcen
 
-* 
-  [Dokumentation zu Office-Add-Ins](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* [Dokumentation zu Office-Add-Ins](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Office Dev Center](http://dev.office.com/)
 * Weitere Office-Add-In-Beispiele unter [OfficeDev auf Github](https://github.com/officedev)
 

@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>Word Web アドインでファイルをダウンロードする
 
 このコード サンプルでは、Office アドインでプログラムを使用してファイルをダウンロードするためのさまざまな手法を説明します。異なる Office ホストとブラウザー (Office Online を使用する場合) では、ファイルの処理方法が異なる場合があります。ファイルのダウンロードの操作性を統一する場合は、このコード サンプルで示す手法を使用します。このサンプル コードでは、Office ホストまたはブラウザーが他のメソッドのいずれかをサポートしていない場合にフォールバック メカニズムを提供する方法も示します。 
