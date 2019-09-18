@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>Baixar arquivos em um Suplemento da Web do Word
 
 Este exemplo de código mostra as várias técnicas disponíveis para baixar arquivos de forma programática em um suplemento do Office. Os diversos navegadores e hosts do Office (durante o uso do Office Online) podem tratar os arquivos de forma diferente. Se você pretende fornecer uma experiência de download de arquivos uniforme, use as técnicas demonstradas neste exemplo de código. O exemplo de código mostra também como fornecer um mecanismo de fallback se o host do Office ou o navegador não tiver suporte para um dos outros métodos. 
@@ -52,8 +68,7 @@ As perguntas sobre o desenvolvimento do Microsoft Office 365 em geral devem ser 
 
 ## <a name="additional-resources"></a>Recursos adicionais
 
-* 
-  [Documentação dos suplementos do Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* [Documentação dos suplementos do Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Centro de Desenvolvimento do Office](http://dev.office.com/)
 * Confira outros exemplos de Suplemento do Office em [OfficeDev no Github](https://github.com/officedev)
 

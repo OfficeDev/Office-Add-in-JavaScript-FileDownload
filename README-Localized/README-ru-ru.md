@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>Скачивание файлов в веб-надстройке Word
 
 Из этого примера кода вы узнаете, как скачивать файлы в надстройке Office программным путем. Разные основные приложения Office и браузеры (при работе с Office Online) могут обрабатывать файлы по-разному. Чтобы унифицировать скачивание файлов, используйте методы, показанные в этом примере кода. В этом примере кода также показано, как обеспечить резервный механизм, если основное приложение Office или браузер не поддерживает один из методов. 
@@ -52,8 +68,7 @@
 
 ## <a name="additional-resources"></a>Дополнительные ресурсы
 
-* 
-  [Документация по надстройкам Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* [Документация по надстройкам Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Центр разработки для Office](http://dev.office.com/)
 * Другие примеры надстроек Office см. на странице [OfficeDev на Github](https://github.com/officedev).
 

@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>Descargar archivos en un complemento web de Word
 
 Con este ejemplo de código se explican las distintas técnicas para descargar archivos mediante programación en un complemento web de Office. Los diferentes hosts y exploradores de Office (al utilizar Office Online) pueden gestionar los archivos de distinta forma. Si quiere ofrecer una descarga de archivos uniforme, utilice las técnicas que se indican en este ejemplo de código. En dicho ejemplo también se muestra cómo proporcionar un mecanismo de reserva en caso de que el host o explorador de Office no sea compatible con uno de los otros métodos. 
@@ -52,8 +68,7 @@ Las preguntas generales sobre el desarrollo de Microsoft Office 365 deben public
 
 ## <a name="additional-resources"></a>Recursos adicionales
 
-* 
-  [Documentación de complementos de Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* [Documentación de complementos de Office](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Centro de desarrollo de Office](http://dev.office.com/)
 * Más ejemplos de complementos de Office en [OfficeDev en GitHub](https://github.com/officedev)
 

@@ -1,3 +1,19 @@
+---
+page_type: sample
+products:
+- office-word
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  platforms:
+  - CSS
+  - iOS
+  createdDate: 11/4/2016 11:31:59 AM
+---
 # <a name="download-files-in-a-word-web-add-in"></a>在 Word Web 外接程序中下载文件
 
 此示例代码展示了在 Office 外接程序中以编程方式下载文件的不同技巧。不同的 Office 主机和浏览器（若使用 Office Online）处理文件的方式可能也不同。若要提供一致的下载体验，请使用此示例代码中展示的技巧。此示例代码还展示了如何在 Office 主机或浏览器不支持其他一种方法时提供回退机制。 
@@ -52,8 +68,7 @@
 
 ## <a name="additional-resources"></a>其他资源
 
-* 
-  [Office 外接程序文档](https://dev.office.com/docs/add-ins/overview/office-add-ins)
+* [Office 外接程序文档](https://dev.office.com/docs/add-ins/overview/office-add-ins)
 * [Office 开发人员中心](http://dev.office.com/)
 * 有关更多 Office 外接程序示例，请访问 [Github 上的 OfficeDev](https://github.com/officedev)。
 
